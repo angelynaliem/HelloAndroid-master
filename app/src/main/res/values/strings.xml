@@ -5,4 +5,5 @@
     <string name="students_first">Students First</string>
     <string name="web">Udacity website</string>
     <string name="udacity_website">http://www.udacity.com</string>
+    <string name="android_app">Download the Android App</string>
 </resources>
